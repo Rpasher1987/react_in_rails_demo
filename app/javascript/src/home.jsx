@@ -6,7 +6,7 @@ import './home.scss';
 
 const Home = () => (
   <Layout>
-    <h1>Home page updates automatically with Web Dev Server & Rails Server. Testies 123, Testies123</h1>
+    <h1>Home page updates automatically with Web Dev Server & Rails Server. Trying out changes to the webpack server. Let's see if it works. Attempting changes yet again. I still cant get anything to work, I don't know what the issue is.</h1>
   </Layout>
 )
 
